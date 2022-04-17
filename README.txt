@@ -1,5 +1,15 @@
 "Virtual Pet Game"
 
+Current features:
+ - A cat pet
+ - Pet creation
+ - Pet status
+ - Basic commands
+ - Idle handling
+ - Ascii graphics
+ - Main gameloop
+ - Split into files for better maintanance
+
 Guide on playing:
 
 - Download the python files
