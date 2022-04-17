@@ -1,6 +1,7 @@
 "Virtual Pet Game"
 
 Current features:
+
  - A cat pet
  - Pet creation
  - Pet status
